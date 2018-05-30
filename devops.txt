@@ -1,4 +1,6 @@
 git
 ansible
 pupet
-
+vagrant
+chef
+svn
