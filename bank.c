@@ -5,4 +5,10 @@ void main()
 void Deposite()
 {
 }
+void fund()
+{
+}
+void balnce()
+{..}
+
 
